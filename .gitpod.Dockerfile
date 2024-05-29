@@ -1,6 +1,6 @@
 # test dockerfile
 
-FROM ubuntu:latest
+FROM gitpod/workspace-full:2022-05-08-14-31-53
 
 # Install:
 # - git (and git-lfs), for git operations (to e.g. push your work).
