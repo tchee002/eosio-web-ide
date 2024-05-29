@@ -1,1 +1,2 @@
-image: tchee002/eosio-web:latest
+image:
+    file: .gitpod.Dockerfile
