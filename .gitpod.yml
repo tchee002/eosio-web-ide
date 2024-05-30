@@ -1,1 +1,14 @@
 image: tchee002/eosio-web:latest
+
+ports:
+- port: 3000
+  onOpen: ignore
+- port: 8000
+  onOpen: ignore
+- port: 8080
+  onOpen: ignore
+- port: 8888
+  onOpen: ignore
+- port: 9876
+  onOpen: ignore
+  
