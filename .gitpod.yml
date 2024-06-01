@@ -1,5 +1,4 @@
-image:
-    file: .gitpod.Dockerfile
+image: tchee002/eosio-web:latest
 
 ports:
 - port: 3000
